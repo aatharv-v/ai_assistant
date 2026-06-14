@@ -1,5 +1,5 @@
 # ai_assistant
-This is AI BUILDERS BOOTCAMP file BY vedam school of techology.
+#This is AI BUILDERS BOOTCAMP file BY vedam school of techology.
 import ollama
 import streamlit as st
 
